@@ -43,7 +43,7 @@ We use:
 
 - Upload `index.html`, `profile.jpg`, `background.jpg`, and any other assets
 
-> ![Upload files screenshot](screenshots/upload_files.PNG)
+> ![Upload files screenshot](Screenshots/upload_files.PNG)
 
 ---
 
@@ -51,7 +51,7 @@ We use:
 
 - Select all uploaded files → Actions → Make public
 
-> ![Make public screenshot](screenshots/make_public.PNG)
+> ![Make public screenshot](Screenshots/make_public.PNG)
 
 ---
 
@@ -62,7 +62,7 @@ We use:
   - **Index document**: `index.html`
   - **Error document**: `error.html` (optional)
 
-> ![Static hosting screenshot](screenshots/static_hosting.PNG)
+> ![Static hosting screenshot](Screenshots/static_hosting.PNG)
 
 ---
 
@@ -71,7 +71,7 @@ We use:
 - Go to **Permissions** tab → Bucket Policy → Edit
 - Add the following policy (replace `your-bucket-name`):
 
- ![Bucket Policy](screenshots/Bucket_Policy.PNG)
+ ![Bucket Policy](Screenshots/Bucket_Policy.PNG)
 
 ```json
 {
@@ -90,4 +90,4 @@ We use:
 ### Access your website
 -Copy your S3 website endpoint URL
 -Open it in your browser to see your live website! 🎉
-![Display website](screenshots/display_website.PNG)
+![Display website](Screenshots/display_website.PNG)
