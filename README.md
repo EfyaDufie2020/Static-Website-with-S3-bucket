@@ -72,8 +72,8 @@ We use:
 - Add the following policy (replace `your-bucket-name`):
 
 
+> ![Bucket Policy screenshot](Screenshots/Bucket_Policy.PNG)
 
-> ![Bucket Policy Screenshot](Screenshots/Bucket_Policy.PNG)
 
 
 ```json
@@ -93,4 +93,6 @@ We use:
 ### Access your website
 -Copy your S3 website endpoint URL
 -Open it in your browser to see your live website! 🎉
-> ![Display website Screenshot](Screenshots/display_website.PNG)
+
+
+> ![display website screenshot](Screenshots/display_website.PNG)
